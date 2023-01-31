@@ -3,8 +3,6 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 import Container from '../components/Container';
-import BlogPostCard from '../components/BlogPostCard';
-import VideoCard from '../components/VideoCard';
 
 export default function Home() {
   return (
@@ -17,10 +15,10 @@ export default function Home() {
                 Diego Vergara Petricio
               </h1>
               <h2 className="text-gray-700 dark:text-gray-200 mb-4">
-                Full-Stack Developer, Gamer and Machine Learning Enthusiast
+                Full-Stack Developer, Gamer and AI/Machine learning enthusiast
               </h2>
               <p className="text-gray-600 dark:text-gray-400 mb-16 pr-5">
-              I am extremely excited about my career in web development and I am constantly looking for new ways to learn and improve. I am passionate about using my skills to create beautiful and functional websites that make a difference. I am also passionate about machine learning, and I am always looking for ways to incorporate it into my projects to make them more interactive and intelligent. I am confident that my enthusiasm and eagerness to learn will help me to excel in this field and make a positive impact in the world of technology.
+              As a backend developer with a passion for AI, I'm always looking for new ways to push the boundaries of what's possible. I love creating secure and efficient systems that power amazing user experiences. When I'm not coding, you can find me playing video games or jamming out to music. I'm always looking for new challenges and ways to improve my skills, and I believe that my combination of technical ability and creative passion make me a valuable asset in this field. Whether it's building new AI-powered apps or just tinkering around, I'm always eager to learn and grow as a developer.
               </p>
             </div>
             <div className="flex-shrink-0">
@@ -36,103 +34,6 @@ export default function Home() {
             </div>
           </div>
 
-          <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-6 text-black dark:text-white">
-            Featured Posts
-          </h3>
-          <div className="flex gap-6 flex-col md:flex-row">
-            <BlogPostCard
-              title="Everything I Know About Style Guides, Design Systems, and Component Libraries"
-              slug="style-guides-component-libraries-design-systems"
-              gradient="from-[#D8B4FE] to-[#818CF8]"
-            />
-            <BlogPostCard
-              title="Rust Is The Future of JavaScript Infrastructure"
-              slug="rust"
-              gradient="from-[#6EE7B7] via-[#3B82F6] to-[#9333EA]"
-            />
-            <BlogPostCard
-              title="Past, Present, and Future of React State Management"
-              slug="react-state-management"
-              gradient="from-[#FDE68A] via-[#FCA5A5] to-[#FECACA]"
-            />
-          </div>
-          <Link
-            href="/blog"
-            className="flex items-center mt-8 text-gray-600 dark:text-gray-400 leading-7 rounded-lg hover:text-gray-800 dark:hover:text-gray-200 transition-all h-6"
-          >
-            <>
-              {'Read all posts'}
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                className="h-6 w-6 ml-1"
-              >
-                <path
-                  stroke="currentColor"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M17.5 12h-15m11.667-4l3.333 4-3.333-4zm3.333 4l-3.333 4 3.333-4z"
-                />
-              </svg>
-            </>
-          </Link>
-
-          <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-16 text-black dark:text-white">
-            Learn React & Next.js
-          </h3>
-          <p className="text-gray-600 dark:text-gray-400 mb-4">
-            Build and deploy a modern SaaS application using the most popular
-            open-source software. This course is 12 hours long and is completely
-            live streamed.
-          </p>
-          <VideoCard
-            index="01"
-            href="https://www.youtube.com/watch?v=MxR5I5_hOKk&list=PL6bwFJ82M6FXgctyoWXqj7H0GK8_YIeF1&index=2"
-            length="1:02:45"
-            title="Introduction to React 2025"
-          />
-          <VideoCard
-            index="02"
-            href="https://www.youtube.com/watch?v=AGl52moyISU&list=PL6bwFJ82M6FXgctyoWXqj7H0GK8_YIeF1&index=3"
-            length="54:22"
-            title="Firestore, Chakra UI, Absolute Imports"
-          />
-          <VideoCard
-            index="03"
-            href="https://www.youtube.com/watch?v=3g6-v3_BNbM&list=PL6bwFJ82M6FXgctyoWXqj7H0GK8_YIeF1&index=4"
-            length="1:08:30"
-            title="Designing & Building the Dashboard"
-          />
-          <VideoCard
-            index="04"
-            href="https://www.youtube.com/watch?v=u8iv_yhSRI8&list=PL6bwFJ82M6FXgctyoWXqj7H0GK8_YIeF1&index=5"
-            length="1:13:45"
-            title="Firebase Admin with Next.js + SWR"
-          />
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://www.youtube.com/playlist?list=PL6bwFJ82M6FXgctyoWXqj7H0GK8_YIeF1"
-            className="flex items-center mt-8 text-gray-600 dark:text-gray-400 leading-7 rounded-lg hover:text-gray-800 dark:hover:text-gray-200 transition-all h-6"
-          >
-            Watch all videos
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              className="h-6 w-6 ml-1"
-            >
-              <path
-                stroke="currentColor"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M17.5 12h-15m11.667-4l3.333 4-3.333-4zm3.333 4l-3.333 4 3.333-4z"
-              />
-            </svg>
-          </a>
         </div>
       </Container>
     </Suspense>
