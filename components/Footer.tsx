@@ -36,7 +36,7 @@ export default function Footer() {
           From Antofagasta, Chile
           </p>
           <p className="tracking-tight text-black dark:text-white">
-          ¡Open to relocate!
+          ¡¡Open to relocate!!
           </p>
         </div>
       </div>
