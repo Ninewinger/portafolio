@@ -72,6 +72,9 @@ export default function MobileMenu() {
             <Link href="/about" className="flex w-auto pb-4">
               About
             </Link>
+            <Link href="/portafolio" className="flex w-auto pb-4">
+              Portafolio
+            </Link>
           </li>
         </ul>
       )}
