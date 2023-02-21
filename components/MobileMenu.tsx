@@ -72,8 +72,13 @@ export default function MobileMenu() {
             <Link href="/about" className="flex w-auto pb-4">
               About
             </Link>
-            <Link href="/portafolio" className="flex w-auto pb-4">
-              Portafolio
+          </li>
+          <li
+            className="border-b border-gray-300 dark:border-gray-700 text-gray-900 dark:text-gray-100 text-sm font-semibold"
+            style={{ transitionDelay: '750ms' }}
+          >
+            <Link href="/portfolio" className="flex w-auto pb-4">
+              Portfolio
             </Link>
           </li>
         </ul>
