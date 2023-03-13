@@ -14,7 +14,7 @@ export default function Home() {
                 Diego Vergara Petricio
               </h1>
               <h2 className="text-gray-700 dark:text-gray-200 mb-4">
-                Full-Stack Developer, Gamer and AI/Machine learning enthusiast
+                Full-Stack Developer, Gamer and future AI Engineer
               </h2>
               <p className="text-gray-600 dark:text-gray-400 mb-16 pr-5">
               As a backend developer with a passion for AI, I'm always looking for new ways to push the boundaries of what's possible. I love creating secure and efficient systems that power amazing user experiences. When I'm not coding, you can find me playing video games or jamming out to music. I'm always looking for new challenges and ways to improve my skills, and I believe that my combination of technical ability and creative passion make me a valuable asset in this field. Whether it's building new AI-powered apps or just tinkering around, I'm always eager to learn and grow as a developer.
