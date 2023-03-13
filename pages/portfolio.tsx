@@ -26,12 +26,11 @@ export default function portafolio() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             </p>
                         </div>
-                        ///gif
                         <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
                             </div>
                         </div>
@@ -45,10 +44,11 @@ export default function portafolio() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             </p>
                         </div>
+                        <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
                             </div>
                         </div>
@@ -62,10 +62,11 @@ export default function portafolio() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             </p>
                         </div>
+                        <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
                             </div>
                         </div>
@@ -79,10 +80,11 @@ export default function portafolio() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             </p>
                         </div>
+                        <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
                             </div>
                         </div>
@@ -96,10 +98,11 @@ export default function portafolio() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             </p>
                         </div>
+                        <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
                             </div>
                         </div>
@@ -113,10 +116,11 @@ export default function portafolio() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             </p>
                         </div>
+                        <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
                             </div>
                         </div>
@@ -135,10 +139,11 @@ export default function portafolio() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             </p>
                         </div>
+                        <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
                             </div>
                         </div>
@@ -152,10 +157,11 @@ export default function portafolio() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             </p>
                         </div>
+                        <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
                             </div>
                         </div>
@@ -169,10 +175,11 @@ export default function portafolio() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             </p>
                         </div>
+                        <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
                             </div>
                         </div>
@@ -186,10 +193,11 @@ export default function portafolio() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             </p>
                         </div>
+                        <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
                             </div>
                         </div>
@@ -203,10 +211,11 @@ export default function portafolio() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             </p>
                         </div>
+                        <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
                             </div>
                         </div>
@@ -220,10 +229,11 @@ export default function portafolio() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             </p>
                         </div>
+                        <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
                             </div>
                         </div>
