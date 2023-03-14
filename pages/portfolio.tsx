@@ -20,13 +20,13 @@ export default function portafolio() {
                     <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
-                                Reproductor de música con fetch
+                                Music player with fetch
                             </h2>
                             <p className="mt-2 text-gray-600 dark:text-gray-400">
-                                Este proyecto es un reproductor de música que utiliza una API de musica 8bits para obtener los datos de los artistas y canciones.                                                               
+                                This project is a music player that uses an 8bit music API to obtain the data of the artists and songs.                                                               
                             </p>
                             <p className="mt-2 text-gray-600 dark:text-gray-400 font-bold">
-                                Tecnologías: HTML, CSS, JavaScript, React, fetch. 
+                                Tecnologies: HTML, CSS, JavaScript, React, fetch. 
                             </p>
                         </div>
                         <img className="h-56 w-full object-cover" src="https://raw.githubusercontent.com/Ninewinger/music_player_with_fetch/master/public/musicplayerreadme.jpg" alt="avatar" />
@@ -38,7 +38,7 @@ export default function portafolio() {
                             </div>
                         </div>
                     </div>
-                    <div className="bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
+                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
                                 Project 2
@@ -48,7 +48,7 @@ export default function portafolio() {
                             </p>
                         </div>
                         <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
+                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
@@ -56,7 +56,7 @@ export default function portafolio() {
                             </div>
                         </div>
                     </div>
-                    <div className="bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
+                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
                                 Project 3
@@ -66,7 +66,7 @@ export default function portafolio() {
                             </p>
                         </div>
                         <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
+                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
@@ -74,7 +74,7 @@ export default function portafolio() {
                             </div>
                         </div>
                     </div>
-                    <div className="bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
+                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
                                 Project 4
@@ -84,7 +84,7 @@ export default function portafolio() {
                             </p>
                         </div>
                         <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
+                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
@@ -92,7 +92,7 @@ export default function portafolio() {
                             </div>
                         </div>
                     </div>
-                    <div className="bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
+                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
                                 Project 5
@@ -102,7 +102,7 @@ export default function portafolio() {
                             </p>
                         </div>
                         <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
+                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
@@ -110,7 +110,7 @@ export default function portafolio() {
                             </div>
                         </div>
                     </div>
-                    <div className="bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
+                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
                                 Project 6
@@ -120,7 +120,7 @@ export default function portafolio() {
                             </p>
                         </div>
                         <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
+                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
@@ -133,7 +133,7 @@ export default function portafolio() {
                     Machine-Learning projects, data science, and more.
                 </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mb-8">
-                    <div className="bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
+                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
                                 Project 1
@@ -143,7 +143,7 @@ export default function portafolio() {
                             </p>
                         </div>
                         <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
+                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
@@ -151,7 +151,7 @@ export default function portafolio() {
                             </div>
                         </div>
                     </div>
-                    <div className="bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
+                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
                                 Project 2
@@ -161,7 +161,7 @@ export default function portafolio() {
                             </p>
                         </div>
                         <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
+                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
@@ -169,7 +169,7 @@ export default function portafolio() {
                             </div>
                         </div>
                     </div>
-                    <div className="bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
+                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
                                 Project 3
@@ -179,7 +179,7 @@ export default function portafolio() {
                             </p>
                         </div>
                         <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
+                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
@@ -187,7 +187,7 @@ export default function portafolio() {
                             </div>
                         </div>
                     </div>
-                    <div className="bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
+                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
                                 Project 4
@@ -197,7 +197,7 @@ export default function portafolio() {
                             </p>
                         </div>
                         <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
+                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
@@ -205,7 +205,7 @@ export default function portafolio() {
                             </div>
                         </div>
                     </div>
-                    <div className="bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
+                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
                                 Project 5
@@ -215,7 +215,7 @@ export default function portafolio() {
                             </p>
                         </div>
                         <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
+                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
@@ -223,7 +223,7 @@ export default function portafolio() {
                             </div>
                         </div>
                     </div>
-                    <div className="bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
+                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
                                 Project 6
@@ -233,7 +233,7 @@ export default function portafolio() {
                             </p>
                         </div>
                         <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700">
+                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
                             <a href="#" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
