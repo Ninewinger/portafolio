@@ -44,7 +44,7 @@ export default function portafolio() {
                                 Calculadora
                             </h2>
                             <p className="mt-2 text-gray-600 dark:text-gray-400">
-                                This project is a calculator that uses Tkinter to create the GUI. and a calculator made only on OOP.
+                                This project is a calculator that uses Tkinter to create the GUI. and a calculator made only on oop.
                             </p>
                             <p className="mt-2 text-gray-600 dark:text-gray-400 font-bold">
                                 Tecnologies: Python, Tkinter.
@@ -136,6 +136,7 @@ export default function portafolio() {
                     Machine-Learning projects, data science, and more.
                 </h3>
                 
+            </div>
         </Container>
     )
 }
