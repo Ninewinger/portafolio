@@ -41,15 +41,18 @@ export default function portafolio() {
                     <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
-                                Project 2
+                                Calculadora
                             </h2>
                             <p className="mt-2 text-gray-600 dark:text-gray-400">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                This project is a calculator that uses Tkinter to create the GUI.
+                            </p>
+                            <p className="mt-2 text-gray-600 dark:text-gray-400 font-bold">
+                                Tecnologies: Python, Tkinter.
                             </p>
                         </div>
-                        <img className="h-56 w-full object-cover" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                        <img className="h-56 object-cover" src="https://raw.githubusercontent.com/Ninewinger/calculadora/master/calc.bmp" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
-                            <a href="#" className="text-blue-500 hover:underline">Read more</a>
+                            <a href="https://github.com/Ninewinger/calculadora" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
