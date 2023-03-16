@@ -44,7 +44,7 @@ export default function portafolio() {
                                 Calculadora
                             </h2>
                             <p className="mt-2 text-gray-600 dark:text-gray-400">
-                                This project is a calculator that uses Tkinter to create the GUI. and a calculator made only on oop.
+                                This project is a calculator that uses Tkinter to create the GUI. and a calculator made only on OOP.
                             </p>
                             <p className="mt-2 text-gray-600 dark:text-gray-400 font-bold">
                                 Tecnologies: Python, Tkinter.
@@ -135,117 +135,7 @@ export default function portafolio() {
                 <h3 className="text-2xl font-semibold text-gray-700 dark:text-gray-200 pb-12">
                     Machine-Learning projects, data science, and more.
                 </h3>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mb-8">
-                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
-                        <div className="p-4">
-                            <h2 className="text-xl font-bold text-gray-800 dark:text-white">
-                                Project 1
-                            </h2>
-                            <p className="mt-2 text-gray-600 dark:text-gray-400">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </div>
-                        <img className="h-56 w-full object-contain" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
-                            <a href="#" className="text-blue-500 hover:underline">Read more</a>
-                            <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
-                                <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
-                        <div className="p-4">
-                            <h2 className="text-xl font-bold text-gray-800 dark:text-white">
-                                Project 2
-                            </h2>
-                            <p className="mt-2 text-gray-600 dark:text-gray-400">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </div>
-                        <img className="h-56 w-full object-contain" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
-                            <a href="#" className="text-blue-500 hover:underline">Read more</a>
-                            <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
-                                <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
-                        <div className="p-4">
-                            <h2 className="text-xl font-bold text-gray-800 dark:text-white">
-                                Project 3
-                            </h2>
-                            <p className="mt-2 text-gray-600 dark:text-gray-400">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </div>
-                        <img className="h-56 w-full object-contain" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
-                            <a href="#" className="text-blue-500 hover:underline">Read more</a>
-                            <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
-                                <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
-                        <div className="p-4">
-                            <h2 className="text-xl font-bold text-gray-800 dark:text-white">
-                                Project 4
-                            </h2>
-                            <p className="mt-2 text-gray-600 dark:text-gray-400">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </div>
-                        <img className="h-56 w-full object-contain" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
-                            <a href="#" className="text-blue-500 hover:underline">Read more</a>
-                            <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
-                                <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
-                        <div className="p-4">
-                            <h2 className="text-xl font-bold text-gray-800 dark:text-white">
-                                Project 5
-                            </h2>
-                            <p className="mt-2 text-gray-600 dark:text-gray-400">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </div>
-                        <img className="h-56 w-full object-contain" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
-                            <a href="#" className="text-blue-500 hover:underline">Read more</a>
-                            <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
-                                <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
-                        <div className="p-4">
-                            <h2 className="text-xl font-bold text-gray-800 dark:text-white">
-                                Project 6
-                            </h2>
-                            <p className="mt-2 text-gray-600 dark:text-gray-400">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
-                        </div>
-                        <img className="h-56 w-full object-contain" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
-                        <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
-                            <a href="#" className="text-blue-500 hover:underline">Read more</a>
-                            <div className="flex items-center">
-                                <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
-                                <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                
         </Container>
     )
 }
