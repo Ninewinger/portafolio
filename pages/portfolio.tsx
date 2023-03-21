@@ -62,15 +62,18 @@ export default function portafolio() {
                     <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
-                                Project 3
+                                BATTLESHIP
                             </h2>
                             <p className="mt-2 text-gray-600 dark:text-gray-400">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                This project is a battleship game made in vanilla js, it has a simple UI and a simple AI.
+                            </p>
+                            <p className="mt-2 text-gray-600 dark:text-gray-400 font-bold">
+                                Tecnologies: HTML, CSS, JavaScript.
                             </p>
                         </div>
-                        <img className="h-56 w-full object-contain" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                        <img className="h-56 w-full object-contain" src="https://raw.githubusercontent.com/Ninewinger/Battleship-In-Vanilla.js/main/readmeimg.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
-                            <a href="#" className="text-blue-500 hover:underline">Read more</a>
+                            <a href="https://github.com/Ninewinger/Battleship-In-Vanilla.js" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
@@ -80,15 +83,18 @@ export default function portafolio() {
                     <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
-                                Project 4
+                                Random Card Generator
                             </h2>
                             <p className="mt-2 text-gray-600 dark:text-gray-400">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                This project is a random card generator with the select algorithm.
+                            </p>
+                            <p className="mt-2 text-gray-600 dark:text-gray-400 font-bold">
+                                Tecnologies: HTML, CSS, JavaScript.
                             </p>
                         </div>
-                        <img className="h-56 w-full object-contain" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                        <img className="h-56 w-full object-contain" src="https://raw.githubusercontent.com/Ninewinger/Sorting_Cards_using_the_selection_algorithm/master/asd.jpg" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
-                            <a href="#" className="text-blue-500 hover:underline">Read more</a>
+                            <a href="https://github.com/Ninewinger/Sorting_Cards_using_the_selection_algorithm/tree/master" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
