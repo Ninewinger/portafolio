@@ -125,15 +125,18 @@ export default function portafolio() {
                     <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
                         <div className="p-4">
                             <h2 className="text-xl font-bold text-gray-800 dark:text-white">
-                                Project 6
+                                To Do List React.js
                             </h2>
                             <p className="mt-2 text-gray-600 dark:text-gray-400">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                This project is a to do list made in react.js.
+                            </p>
+                            <p className="mt-2 text-gray-600 dark:text-gray-400 font-bold">
+                                Tecnologies: React.js, JavaScript, HTML, CSS, Bootstrap.
                             </p>
                         </div>
-                        <img className="h-56 w-full object-contain" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg" alt="avatar" />
+                        <img className="h-56 w-full object-contain" src="https://raw.githubusercontent.com/Ninewinger/React_TODO_application/main/preview.bmp" alt="avatar" />
                         <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
-                            <a href="#" className="text-blue-500 hover:underline">Read more</a>
+                            <a href="https://github.com/Ninewinger/React_TODO_application" className="text-blue-500 hover:underline">Read more</a>
                             <div className="flex items-center">
                                 <img className="h-8 w-8 rounded-full object-cover" src="/avatar.jpg" alt="avatar" />
                                 <h4 className="ml-2 text-gray-700 dark:text-gray-200 font-semibold">Diego Vergara</h4>
