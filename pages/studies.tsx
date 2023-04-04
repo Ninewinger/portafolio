@@ -16,18 +16,18 @@ export default function studies() {
                 <div className="grid w-full grid-cols-1 gap-4 my-2 mt-4 sm:grid-cols-2">
                     <div className="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 w-full">
                         <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white">
-                            Bachelor's Degree in Computer Science
+                            Bachelor's Degree in safety engineering and industrial hygiene
                         </h1>
                         <p className="text-gray-600 dark:text-gray-400 mb-8">
-                            Universidad Nacional de Córdoba
+                            Universidad Tecnologica de Chile (Inacap - 2013)
                         </p>
                     </div>
                     <div className="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 w-full">
                         <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white">
-                            Bachelor's Degree in Computer Science
+                            Full-stack developer
                         </h1>
                         <p className="text-gray-600 dark:text-gray-400 mb-8">
-                            Universidad Nacional de Córdoba
+                            4Geeks Academy (2021)
                         </p>
                     </div>
                 </div>
