@@ -25,6 +25,7 @@ export default function PortafolioCard({title, description, image, tecnologies, 
         <a
           href={link}
           target="_blank"
+          rel="noopener noreferrer"
           className="text-blue-500 hover:underline"
         >
           Read more
