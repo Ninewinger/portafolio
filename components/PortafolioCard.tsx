@@ -1,4 +1,4 @@
-export default function PortafolioCard({ title, description, tecnologies, image, link }) {
+export default function PortafolioCard({title, description, image, tecnologies, link}) {
   return (
     <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
       <div className="p-4">
