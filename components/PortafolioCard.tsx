@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function PortafolioCard({title, description, image, tecnologies, link}) {
   return (
     <div className="bg-gray-200 dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
@@ -12,9 +14,11 @@ export default function PortafolioCard({title, description, image, tecnologies, 
             Tecnologies:{tecnologies}
         </p>
       </div>
-      <img
+      <Image
         className="h-56 w-full object-contain"
         src={image}
+        width={400}
+        height={400}
         alt="avatar"
       />
       <div className="flex items-center justify-between p-4 bg-gray-200 dark:bg-gray-700">
@@ -26,8 +30,11 @@ export default function PortafolioCard({title, description, image, tecnologies, 
           Read more
         </a>
         <div className="flex items-center">
-          <img
+          <Image
             className="h-8 w-8 rounded-full object-cover"
+            width={400}
+            height={400}
+            quality={100}
             src="/avatar.jpg"
             alt="avatar"
           />

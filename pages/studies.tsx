@@ -1,4 +1,7 @@
 import Container from 'components/Container';
+import Image from 'next/image';
+
+import prev from '../public/prev.jpg';
 
 export default function studies() {
   return (
@@ -15,19 +18,19 @@ export default function studies() {
         </p>
         <div className="grid grid-cols-1 gap-4 my-2 mt-4">
           <div className="flex flex-col bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl dark:border-gray-700 dark:bg-gray-800">
-            <img
+            <Image
               className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
-              src="/prev.jpg"
-              alt=""
-            ></img>
+              src={prev}
+              alt="prevencionista"
+            />
             <div className="flex flex-col justify-between p-4 leading-normal">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 Bachelor's Degree in safety engineering and industrial hygiene
               </h5>
-              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+              <p className="mb-3 font-normal text-gray-700 dark:text-gray-600">
                 Universidad Tecnologica de Chile (Inacap - 2013)
               </p>
-              <p className="mb-3 font-normal text-gray-700 dark:text-gray-600">
+              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
                 The Occupational Health and Safety Engineer is a professional
                 trained to direct and manage occupational health and safety
                 programs, manage environmental risks, and carry out educational
